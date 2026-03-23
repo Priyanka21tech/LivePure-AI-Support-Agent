@@ -24,6 +24,7 @@ An AI-powered customer support agent deployed on a Salesforce Experience (Aura-e
 5. Performs OTP verification
 6. Creates case with full conversation as context
 7. Escalates to human agent if required
+8. The customer support and Raise issue button also creates the service and case erquest in the org using a form.
 
 ## 🏗 Architecture Highlights
 - Multi-topic Agent design
@@ -39,7 +40,7 @@ Screenshots of the agent and page attached
 - Improves customer experience
 - Automates end-to-end support lifecycle
 
- Multilingual support
- 
-- Voice-based interaction
+<img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/edf67928-6c9a-490a-a7f6-1a04c5926deb" />
+<img width="1896" height="917" alt="image" src="https://github.com/user-attachments/assets/de078c5f-005c-4d90-a4bb-23b4b4a962be" />
+ Voice-based interaction
 - Sentiment analysis for escalation
